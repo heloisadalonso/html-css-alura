@@ -40,7 +40,7 @@ A formação é foca em desenvolver um agregador de links para usar como cartão
 
 ## 🔖 Layout
 
-Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figma.com/community/file/1187422022288947321). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
+Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figma.com/file/NrzJacC887svMVfF9oC2jM/Portfolio-Projeto-2?type=design&node-id=0-1&mode=design&t=nurZlStpVbVNjtZb-0). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
 
 ## 💻 Telas
 
